@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T04:27:51.584Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4vtOAERSCGm2xCRbr2al" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T04:40:27.387Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kwZNatokNOi06oLVUPwu" version="14.8.4" type="github" pages="4">
   <diagram id="KaUvi9gJ8rcbDB0Ni-7u" name="thickness">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,6 +25,22 @@
         <mxCell id="frZTuWJHMiOV5DwWVnjp-4" value="pay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="195" width="40" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_C4og6FC5RRTt6DI0S0T" name="congestion">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qGdtfTZDUUGYJ7AaQZYS-0" />
+        <mxCell id="qGdtfTZDUUGYJ7AaQZYS-1" parent="qGdtfTZDUUGYJ7AaQZYS-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gJRQCtPo4AIw1FqKwqCf" name="safe">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FJ6twPSHhK5aStqfXze0-0" />
+        <mxCell id="FJ6twPSHhK5aStqfXze0-1" parent="FJ6twPSHhK5aStqfXze0-0" />
       </root>
     </mxGraphModel>
   </diagram>
