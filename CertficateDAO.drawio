@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T04:18:33.547Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.8.4" etag="TuVYWx5ogdI4Rok3Pb9U" type="github"><diagram id="KaUvi9gJ8rcbDB0Ni-7u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T04:27:51.584Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4vtOAERSCGm2xCRbr2al" version="14.8.4" type="github" pages="2">
+  <diagram id="KaUvi9gJ8rcbDB0Ni-7u" name="thickness">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sdcpT9LteWR0bbx47dF4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sdcpT9LteWR0bbx47dF4-2" value="participarter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frZTuWJHMiOV5DwWVnjp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=10.199996948242188;exitPerimeter=0;" edge="1" parent="1" source="sdcpT9LteWR0bbx47dF4-8" target="sdcpT9LteWR0bbx47dF4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdcpT9LteWR0bbx47dF4-8" value="cao" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.399993896484375;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sdcpT9LteWR0bbx47dF4-9" value="Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frZTuWJHMiOV5DwWVnjp-1" value="aythenticator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frZTuWJHMiOV5DwWVnjp-4" value="pay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lruBl2Y6upcwW-A48Ffr" name="curv-finance">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="y61diAh8C250WFkOMsXI-0" />
+        <mxCell id="y61diAh8C250WFkOMsXI-1" parent="y61diAh8C250WFkOMsXI-0" />
+        <mxCell id="y61diAh8C250WFkOMsXI-2" value="" style="group" vertex="1" connectable="0" parent="y61diAh8C250WFkOMsXI-1">
+          <mxGeometry x="280" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y61diAh8C250WFkOMsXI-3" value="cao" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.200042724609375;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="y61diAh8C250WFkOMsXI-2">
+          <mxGeometry y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y61diAh8C250WFkOMsXI-4" value="eth" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.200042724609375;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="y61diAh8C250WFkOMsXI-2">
+          <mxGeometry x="100" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y61diAh8C250WFkOMsXI-5" value="缺少curv代币公式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y61diAh8C250WFkOMsXI-2">
+          <mxGeometry width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
