@@ -17,7 +17,7 @@ CertficateDAO provides two capability endorsements:：
 -  SCA - Smart Contract Auditor
 
 The responsibilities include: 
-- DFA It focuses on** the economic analysis of smart contract**,  including: market design, mechanism analysis, token engineering and other knowledge applications
+- DFA It focuses on**the economic analysis of smart contract**,  including: market design, mechanism analysis, token engineering and other knowledge applications
 - SCA it focuses on **the audit of smart contracts, and having the right to sign**. The sign to prove that they have completed the audit of smart contracts and other DEFI types.
 
 ### DFA 
