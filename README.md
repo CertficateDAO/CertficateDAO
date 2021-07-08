@@ -3,9 +3,9 @@
 
 Certification is a decentralized DeFi knowledge organization, the establishment of the group's aim is through the audit mechanism to establish membership system, members can enjoy the corresponding knowledge level certification (**NFT**), qualification can query to the relevant information on the chain, its qualification represents CertficateDAO for its ability to relate to the following but not limited to the endorsement.
 
-1. Mastering and applying the core knowledge of DEFI field
-2. Adequate ability to analyze a DEFI project
-3. Be able to endorse the "signature right" for the relevant DEFI project
+1. Mastering and applying the core knowledge of DeFi field
+2. Adequate ability to analyze a DeFi project
+3. Be able to endorse the "signature right" for the relevant DeFi project
 
 ## Why is CertficateDAO
 ## How can CertficateDAO do
