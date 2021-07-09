@@ -16,6 +16,8 @@ CertficateDAO是一个去中心化的DeFi领域知识认证组织，该组织的
 CertficateDAO provides two capability endorsements:：
 -  DFA - Decentralized Finance Analyst
 -  SCA - Smart Contract Auditor
+
+
 其中 
 - DFA 着重在于对智能合约的经济分析，包括：市场设计、机制分析、代币工程等知识应用
 - SCA 着重于对智能合约的审计工作，且享有具有签字权，以证明自己完成了智能合约等DeFi类型的审计工作。
