@@ -12,7 +12,7 @@ Thickness 表示市场的厚度，即可以存在多种不同类型的交互。�
 
 
 这里有一个相关角色的转换图
-![MarketDesign-players.png](/img/MarketDesign-players.png)
+![MarketDesign-players](../../../img/MarketDesign-players.png)
 
 其中 考生的角色严格地讲，并不完全是 `CertificateDAO`的参与者，这是考试这一个动作或者行为会使得其与 `CertificateDAO`发生互动。
 
