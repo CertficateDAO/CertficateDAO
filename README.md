@@ -1,5 +1,5 @@
-# CertficateDAO
-## What is CertficateDAO
+# CertificateDAO
+## What is CertificateDAO
 
 Certification is a decentralized DeFi knowledge organization, the establishment of the group's aim is through the audit mechanism to establish membership system, members can enjoy the corresponding knowledge level certification (**NFT**), qualification can query to the relevant information on the chain, its qualification represents CertficateDAO for its ability to relate to the following but not limited to the endorsement.
 
@@ -7,12 +7,12 @@ Certification is a decentralized DeFi knowledge organization, the establishment 
 2. Adequate ability to analyze a DeFi project
 3. Be able to endorse the "signature right" for the relevant DeFi project
 
-## Why is CertficateDAO
-## How can CertficateDAO do
+## Why is CertificateDAO
+## How can CertificateDAO
 
 ## About Certificate 
 
-CertficateDAO provides two capability endorsements:：
+CertificateDAO provides two capability endorsements:：
 -  DFA - Decentralized Finance Analyst
 -  SCA - Smart Contract Auditor
 
@@ -25,9 +25,9 @@ TBD
 ### SCA
 TBD
 
-## CertficateDAO Handbook
+## CertificateDAO Handbook
 TBD
-## CertficateDAO Train
+## CertificateDAO Train
 TBD
 
 ## Principle 

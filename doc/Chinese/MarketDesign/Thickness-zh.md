@@ -6,10 +6,13 @@ Thickness 表示市场的厚度，即可以存在多种不同类型的交互。�
 
 ## 主要参与角色
 在 `CertificateDAO`中主要存在以下种类的参与者：
-- 1 - 会员 
-- 2 - 审核员
-- 3 - 贡献者
 - 0 - 考生
+- 1 - 会员
+- 2 - 贡献者
+
+
+这里有一个相关角色的转换图
+![MarketDesign-players.png](/img/MarketDesign-players.png)
 
 其中 考生的角色严格地讲，并不完全是 `CertificateDAO`的参与者，这是考试这一个动作或者行为会使得其与 `CertificateDAO`发生互动。
 
