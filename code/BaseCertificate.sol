@@ -1,8 +1,8 @@
 pragma solidity ^0.4.0;
 
-import "./Certificate.sol";
+import "./CertificateInterface.sol";
 
-contract BaseCertificate is Certificate {
+abstract contract BaseCertificate is CertificateInterface {
 
     uint createDateTime;
     uint updateDateTime;

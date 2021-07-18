@@ -2,7 +2,7 @@ pragma solidity ^0.4.0;
 
 import "./LevelEnum.sol";
 
-interface Certificate {
+interface CertificateInterface {
 
     function getCertificateId() returns (uint);
 
