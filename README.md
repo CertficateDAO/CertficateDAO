@@ -1,11 +1,13 @@
 # CertificateDAO
 ## What is CertificateDAO
 
-Certification is a decentralized DeFi knowledge organization, the establishment of the group's aim is through the audit mechanism to establish membership system, members can enjoy the corresponding knowledge level certification (**NFT**), qualification can query to the relevant information on the chain, its qualification represents CertficateDAO for its ability to relate to the following but not limited to the endorsement.
+CertificateDAO is a decentralized knowledge and certificate education organization.
+The purpose of CertificateDAO organization is to establish a decentralized knowledge service platform. Based on the basic products of the platform, the ability certification system is established through the audit mechanism, and NFT is used as the ability credit level certification.
+Nft-related basic authentication metadata information is stored in IPFS, and its competency certification qualification represents CertficateDAO's recognition of its knowledge reserve and practical application ability.
 
-1. Mastering and applying the core knowledge of DeFi field
-2. Adequate ability to analyze a DeFi project
-3. Be able to endorse the "signature right" for the relevant DeFi project
+1. Mastering and applying the core knowledge of DeFi、NFT、Metaverse field
+2. Adequate ability to analyze a DeFi、NFT、Metaverse project
+3. Be able to endorse the "signature right" for the relevant DeFi、NFT、Metaverse project
 
 ## Why is CertificateDAO
 ## How can CertificateDAO
